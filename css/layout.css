@@ -330,7 +330,7 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: solidworks 2s ease;
   	-webkit-animation: solidworks 2s ease;
 }
-.CNC Machining {
+.CNC_Machining {
   	width: 65%;
   	-moz-animation: cnc machining 2s ease;
   	-webkit-animation: illustrator 2s ease;
@@ -340,17 +340,17 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: python 2s ease;
   	-webkit-animation: python 2s ease;
 }
-.css {
+.C/C++ {
   	width: 90%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
-.html5 {
+.Rapid_Prototyping {
   	width: 80%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
-.jquery {
+.Matlab {
   	width: 50%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
