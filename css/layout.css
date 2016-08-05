@@ -345,9 +345,9 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: C/C++ 2s ease;
   	-webkit-animation: C/C++ 2s ease;
 }
-.rapid_prototyping {
+.Rapid_Prototyping {
   	width: 80%;
-  	-moz-animation: rapid_prototyping 2s ease;
+  	-moz-animation: rapid prototyping 2s ease;
   	-webkit-animation: rapid prototyping 2s ease;
 }
 .matlab {
