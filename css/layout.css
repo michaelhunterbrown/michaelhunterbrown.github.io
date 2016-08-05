@@ -335,7 +335,7 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: cnc machining 2s ease;
   	-webkit-animation: cnc machining 2s ease;
 }
-.Python {
+.python {
   	width: 80%;
   	-moz-animation: python 2s ease;
   	-webkit-animation: python 2s ease;
@@ -347,8 +347,8 @@ ul#nav li.current a { color: #F06000; }
 }
 .rapid {
   	width: 80%;
-  	-moz-animation: rapid prototyping 2s ease;
-  	-webkit-animation: rapid prototyping 2s ease;
+  	-moz-animation: rapid 2s ease;
+  	-webkit-animation: rapid 2s ease;
 }
 .matlab {
   	width: 50%;
@@ -362,7 +362,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes cnc_machining {
   0%   { width: 0px;  }
-  100% { width: 65%;  }
+  100% { width: 50%;  }
 }
 @-moz-keyframes python {
   0%   { width: 0px;  }
