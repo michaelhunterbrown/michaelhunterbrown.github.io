@@ -342,17 +342,17 @@ ul#nav li.current a { color: #F06000; }
 }
 .C/C++ {
   	width: 90%;
-  	-moz-animation: css 2s ease;
+  	-moz-animation: c/c++ 2s ease;
   	-webkit-animation: css 2s ease;
 }
 .Rapid_Prototyping {
   	width: 80%;
-  	-moz-animation: html5 2s ease;
+  	-moz-animation: Rapid Prototyping 2s ease;
   	-webkit-animation: html5 2s ease;
 }
 .Matlab {
   	width: 50%;
-  	-moz-animation: jquery 2s ease;
+  	-moz-animation: Matlab 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
 
