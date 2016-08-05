@@ -345,63 +345,63 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: C/C++ 2s ease;
   	-webkit-animation: C/C++ 2s ease;
 }
-.Rapid_Prototyping {
+.rapid_prototyping {
   	width: 80%;
   	-moz-animation: rapid_prototyping 2s ease;
   	-webkit-animation: rapid prototyping 2s ease;
 }
-.Matlab {
+.matlab {
   	width: 50%;
-  	-moz-animation: Matlab 2s ease;
-  	-webkit-animation: Matlab 2s ease;
+  	-moz-animation: matlab 2s ease;
+  	-webkit-animation: matlab 2s ease;
 }
 
-@-moz-keyframes photoshop {
+@-moz-keyframes solidworks {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-moz-keyframes illustrator {
+@-moz-keyframes cnc_machining {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
-@-moz-keyframes wordpress {
+@-moz-keyframes python {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-moz-keyframes css {
+@-moz-keyframes c/c++ {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-moz-keyframes html5 {
+@-moz-keyframes rapid_prototyping {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes jquery {
+@-moz-keyframes matlab {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
 
-@-webkit-keyframes photoshop {
+@-webkit-keyframes solidworks {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-webkit-keyframes illustrator {
+@-webkit-keyframes cnc_machining {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
-@-webkit-keyframes wordpress {
+@-webkit-keyframes python {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-webkit-keyframes css {
+@-webkit-keyframes c/c++ {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-webkit-keyframes html5 {
+@-webkit-keyframes rapid_prototyping {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes jquery {
+@-webkit-keyframes matlab {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
