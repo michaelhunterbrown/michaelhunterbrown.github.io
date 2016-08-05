@@ -343,17 +343,17 @@ ul#nav li.current a { color: #F06000; }
 .C/C++ {
   	width: 50%;
   	-moz-animation: C/C++ 2s ease;
-  	-webkit-animation: css 2s ease;
+  	-webkit-animation: C/C++ 2s ease;
 }
 .Rapid_Prototyping {
   	width: 80%;
-  	-moz-animation: Rapid_Prototyping 2s ease;
-  	-webkit-animation: html5 2s ease;
+  	-moz-animation: rapid_prototyping 2s ease;
+  	-webkit-animation: rapid prototyping 2s ease;
 }
 .Matlab {
   	width: 50%;
   	-moz-animation: Matlab 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  	-webkit-animation: Matlab 2s ease;
 }
 
 @-moz-keyframes photoshop {
