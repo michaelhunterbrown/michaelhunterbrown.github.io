@@ -330,22 +330,22 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: solidworks 2s ease;
   	-webkit-animation: solidworks 2s ease;
 }
-.CNC_Machining {
+.cnc_machining {
   	width: 65%;
   	-moz-animation: cnc machining 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+  	-webkit-animation: cnc machining 2s ease;
 }
 .Python {
   	width: 80%;
   	-moz-animation: python 2s ease;
   	-webkit-animation: python 2s ease;
 }
-.C/C++ {
+.cee {
   	width: 50%;
-  	-moz-animation: C/C++ 2s ease;
-  	-webkit-animation: C/C++ 2s ease;
+  	-moz-animation: cee 2s ease;
+  	-webkit-animation: cee 2s ease;
 }
-.Rapid_Prototyping {
+.rapid {
   	width: 80%;
   	-moz-animation: rapid prototyping 2s ease;
   	-webkit-animation: rapid prototyping 2s ease;
@@ -362,17 +362,17 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes cnc_machining {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 65%;  }
 }
 @-moz-keyframes python {
   0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-moz-keyframes cee {
+  0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-moz-keyframes c/c++ {
-  0%   { width: 0px;  }
-  100% { width: 90%;  }
-}
-@-moz-keyframes rapid_prototyping {
+@-moz-keyframes rapid {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
@@ -387,17 +387,17 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes cnc_machining {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 65%;  }
 }
 @-webkit-keyframes python {
   0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes cee {
+  0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-webkit-keyframes c/c++ {
-  0%   { width: 0px;  }
-  100% { width: 90%;  }
-}
-@-webkit-keyframes rapid_prototyping {
+@-webkit-keyframes rapid {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
